@@ -22,3 +22,9 @@ If a publication consists entirely or chiefly of illustrations, account for this
 
 : chiefly maps
 ```
+[my anchor](anchor-1.1)
+
+some text
+etc
+
+### heading 3 
