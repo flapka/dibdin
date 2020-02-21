@@ -1,4 +1,10 @@
 
+<div class="side-bar">
+  <li>one</li>
+  <li>two</li>
+  <li>three</li>
+</div>
+
 <h2 id="5c4">5C4. Number of illustrations</h2>
 
 Record the number of illustrations when their number can be ascertained readily (e.g., when the illustrations are listed and their numbers stated).
